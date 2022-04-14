@@ -169,7 +169,8 @@ a:active {
 }
 .page-top .information .back_btn li {
   display: initial;
-  padding-right: 40px;
+  margin-right: 40px;
+  cursor: pointer;
 }
 
 .sidebar {
